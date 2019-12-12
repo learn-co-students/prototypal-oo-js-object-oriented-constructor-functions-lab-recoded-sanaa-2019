@@ -4,6 +4,6 @@ function Scooter(year,color,model){
   this.model=action
   
 }
-function Scooter(){
+function Scooter(name,age,experience){
   
 }

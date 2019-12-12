@@ -4,3 +4,6 @@ function Scooter(year,color,model){
   this.model=action
   
 }
+function Scooter(){
+  
+}

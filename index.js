@@ -1,3 +1,3 @@
-function Scooter(){
+function Scooter(date,color,action){
   
 }

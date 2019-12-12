@@ -1,7 +1,7 @@
 function Scooter(year,color,model){
   this.year=date
   this.color=color
-  this.model=action
+  this.model=model
   
 }
 function Scooter(name,age,experience){

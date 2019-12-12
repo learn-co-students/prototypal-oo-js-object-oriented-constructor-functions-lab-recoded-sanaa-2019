@@ -1,6 +1,6 @@
-function Scooter(date,color,action){
-  this.date=date
+function Scooter(year,color,model){
+  this.year=date
   this.color=color
-  this.action=action
+  this.model=action
   
 }
